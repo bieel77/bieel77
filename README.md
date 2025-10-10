@@ -1,16 +1,16 @@
-## Hi there 👋
+## Hi there �
+Hola, soc el Biel, benvingut/da al meu repertori. �
+Benvingut/da al meu repositori Projece2_EverPIA.  
+Aquí aniré publicant les tasques individuals del curs,
 
-<!--
-**bieel77/bieel77** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+## 🙋‍♂️ Sobre mi
 
-Here are some ideas to get you started:
+🔭 I’m currently working on: **Els projectes i activitats relacionats amb el meu grau de sistemes microinformàtics i xarxes**
+🌱 I’m currently learning: **Estic cursant un grau de sistemes microinformatics i xarxes**
+👯 I’m looking to collaborate on: **Projectes educatius i de desenvolupament de programari**
+🤔 I’m looking for help with: **Perfeccionar les meves habilitats en GitHub**
+💬 Ask me about: **GitHub i els conceptes fonamentals de programació**
+📫 How to reach me: **Alu.biel.perez@mataro.epiaedu.cat**
+  
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+✨ Gràcies per visitar aquest repositori! ✨
