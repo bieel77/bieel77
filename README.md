@@ -1,16 +1,17 @@
-## Hi there �
-Hola, soc el Biel, benvingut/da al meu repertori. �
-Benvingut/da al meu repositori Projece2_EverPIA.  
-Aquí aniré publicant les tasques individuals del curs,
+Hola 👋
 
-## 🙋‍♂️ Sobre mi
+Hola, soc el Biel, benvingut/da al meu repertori. 😊
+Benvingut/da al meu repositori Projece2_EverPIA.
+Aquí aniré publicant les tasques individuals del curs.
 
-🔭 I’m currently working on: **Els projectes i activitats relacionats amb el meu grau de sistemes microinformàtics i xarxes**
-🌱 I’m currently learning: **Estic cursant un grau de sistemes microinformatics i xarxes**
-👯 I’m looking to collaborate on: **Projectes educatius i de desenvolupament de programari**
-🤔 I’m looking for help with: **Perfeccionar les meves habilitats en GitHub**
-💬 Ask me about: **GitHub i els conceptes fonamentals de programació**
-📫 How to reach me: **Alu.biel.perez@mataro.epiaedu.cat**
+🙋‍♂️ Sobre mi
+
+🔭 Actualment treballo en: Els projectes i activitats relacionats amb el meu grau de sistemes microinformàtics i xarxes
+🌱 Actualment estic aprenent: Estic cursant un grau de sistemes microinformàtics i xarxes
+👯 Busco col·laborar en: Projectes educatius i de desenvolupament de programari
+🤔 Busco ajuda amb: Perfeccionar les meves habilitats en GitHub
+💬 Pregunta'm sobre: GitHub i els conceptes fonamentals de programació
+📫 Com contactar-me: Alu.biel.perez@mataro.epiaedu.cat
   
 
 ✨ Gràcies per visitar aquest repositori! ✨
