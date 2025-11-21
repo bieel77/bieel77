@@ -11,7 +11,7 @@ Aquí aniré publicant les tasques individuals del curs.
 👯 Busco col·laborar en: Projectes educatius i de desenvolupament de programari
 🤔 Busco ajuda amb: Perfeccionar les meves habilitats en GitHub
 💬 Pregunta'm sobre: GitHub i els conceptes fonamentals de programació
-📫 Com contactar-me: Alu.biel.perez@mataro.epiaedu.cat
+📫 Com contactar-me: alu.biel.perez@mataro.epiaedu.cat
   
 
 ✨ Gràcies per visitar aquest repositori! ✨
