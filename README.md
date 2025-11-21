@@ -1,7 +1,7 @@
 Hola 👋
 
 Hola, soc el Biel, benvingut/da al meu repertori. 😊
-Benvingut/da al meu repositori Projece2_EverPIA.
+Benvingut/da al meu repositori dels projectes_EverPIA.
 Aquí aniré publicant les tasques individuals del curs.
 
 🙋‍♂️ Sobre mi
