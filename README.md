@@ -1,17 +1,42 @@
-Hola 👋
+# Hola! 👋 Soc el Biel Pérez
 
-Hola, soc el Biel, benvingut/da al meu repertori. 😊
-Benvingut/da al meu repositori dels projectes_EverPIA.
-Aquí aniré publicant les tasques individuals del curs.
+Benvingut/da al meu perfil de GitHub.  
+Aquest espai el faig servir per publicar i organitzar els projectes que vaig desenvolupant durant el curs, especialment relacionats amb **sistemes microinformàtics**, **programació** i **xarxes**.
 
-🙋‍♂️ Sobre mi
+## 👨‍💻 Sobre mi
 
-🔭 Actualment treballo en: Els projectes i activitats relacionats amb el meu grau de sistemes microinformàtics i xarxes
-🌱 Actualment estic aprenent: Estic cursant un grau de sistemes microinformàtics i xarxes
-👯 Busco col·laborar en: Projectes educatius i de desenvolupament de programari
-🤔 Busco ajuda amb: Perfeccionar les meves habilitats en GitHub
-💬 Pregunta'm sobre: GitHub i els conceptes fonamentals de programació
-📫 Com contactar-me: alu.biel.perez@mataro.epiaedu.cat
-  
+Actualment estic estudiant i aprenent conceptes relacionats amb la informàtica, el desenvolupament de programari i l’administració de sistemes.  
+M’agrada entendre com funcionen les tecnologies per dins i aplicar aquests coneixements en projectes pràctics.
 
-✨ Gràcies per visitar aquest repositori! ✨
+## 🚀 Què trobaràs aquí?
+
+En aquest perfil aniré penjant diferents repositoris amb:
+
+- Activitats individuals del curs
+- Projectes relacionats amb EverPia
+- Exercicis de programació
+- Pràctiques de GitHub
+- Treballs sobre sistemes, xarxes i eines informàtiques
+
+## 🛠️ Tecnologies i eines que estic aprenent
+
+- Git i GitHub
+- Programació bàsica
+- Sistemes operatius
+- Xarxes informàtiques
+- Desenvolupament web
+- Resolució de problemes tècnics
+
+## 🎯 Objectius
+
+El meu objectiu és anar millorant progressivament les meves habilitats tècniques, aprendre bones pràctiques de treball i crear projectes cada vegada més complets i ben organitzats.
+
+## 📫 Contacte
+
+Pots contactar amb mi a través del correu:
+
+**alu.biel.perez@mataro.epiaedu.cat**
+
+---
+
+✨ Gràcies per visitar el meu perfil! ✨
